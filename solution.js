@@ -1,3 +1,4 @@
-function fixTheMeerkat(arr) {
-  return arr.reverse();
-};
+function abbrevName(name){
+  var str = name.split(' ');
+  return (str[0][0]+'.' + str[1][0]).toUpperCase();
+}

@@ -1,11 +1,15 @@
 # code-301-wars
 Repository for codewars solutions:
 
-Link for code wars problem replace-all-the-dots.
-[Link to codewars problem](https://www.codewars.com/kata/my-head-is-at-the-wrong-end/train/javascript).
+Link for code wars problem for abbreviate-a-two-word-name.
+[Link to codewars problem](https://www.codewars.com/kata/abbreviate-a-two-word-name/train/javascript).
 
-You're at the zoo... all the meerkats look weird. Something has gone terribly wrong - someone has gone and switched their heads and tails around!
+Write a function to convert a name into initials. This kata strictly takes two words with one space in between them.
 
-Save the animals by switching them back. You will be given an array which will have three values (tail, body, head). It is your job to re-arrange the array so that the animal is the right way round (head, body, tail).
+The output should be two capital letters with a dot seperating them.
 
-Same goes for all the other arrays/lists that you will get in the tests: you have to change the element positions with the same exact logics - simples!
+It should look like this:
+
+Sam Harris => S.H
+
+Patrick Feeney => P.F
