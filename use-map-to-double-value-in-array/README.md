@@ -1,0 +1,12 @@
+# code-301-wars
+Repository for codewars solutions:
+
+Link for code wars problem for use-map-to-double-the-values-in-an-array
+[Link to codewars problem](https://www.codewars.com/kata/use-map-to-double-the-values-in-an-array/train/javascript).
+
+Make the double() function return a new array with each value twice as large as the corresponding value in the passed in array. Your solution must use the map() function of the built-in javascript Array object. If you're not familiar with map(), reading over the documentation may help.
+
+function double(array) {
+    // Use array.map() to return a new array with each value twice
+    // as large as the corresponding value in the passed in array.
+}
